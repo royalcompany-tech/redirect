@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",  // Captura todas las rutas
+      "destination": "https://royalmayorista.com.ar",  // Redirige a tu dominio de destino
+      "permanent": true  // Hace que sea una redirección 301 (permanente)
+    }
+  ]
+}
